@@ -1,0 +1,7 @@
+# Deny by default. Add exact paths only after the file passes release review.
+*
+!/.gitignore
+!/README.md
+!/docs/
+!/docs/data-layout.md
+!/docs/environment.md
